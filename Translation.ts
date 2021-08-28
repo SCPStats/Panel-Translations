@@ -2,6 +2,7 @@ import EN from "./langs/en";
 import RU from "./langs/ru";
 
 export interface Translation {
+    this_lang: string;
     loading: string;
     redirecting: string;
     success: string;

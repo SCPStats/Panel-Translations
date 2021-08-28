@@ -1,6 +1,7 @@
 import {Translation} from "../Translation";
 
 const EN: Translation = {
+    this_lang: "English",
     loading: "Loading...",
     redirecting: "Redirecting...",
     success: "Success",
