@@ -1,6 +1,6 @@
 import {Translation} from "../Translation";
 
-const EN: Translation = {
+const CS: Translation = {
     this_lang: "Czech",
     loading: "Načítání...",
     redirecting: "Přesměrování...",
