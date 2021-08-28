@@ -30,6 +30,7 @@ export interface Translation {
     pardonSuccess: string;
     delete: string;
     deleteSuccess: string;
+    confirmTitle: string;
     confirmMessage: string;
     confirm: string;
     cancel: string;

@@ -29,6 +29,7 @@ const EN: Translation = {
     pardonSuccess: "Successfully pardoned ban!",
     delete: "Delete",
     deleteSuccess: "Successfully deleted warning/ban!",
+    confirmTitle: "Are you sure?",
     confirmMessage: "Please confirm that you want to complete this action.",
     confirm: "Confirm",
     cancel: "Cancel",
