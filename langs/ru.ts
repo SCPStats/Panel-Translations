@@ -29,7 +29,7 @@ const RU: Translation = {
     pardonSuccess: "Игрок успешно разбанен!",
     delete: "Удалить",
     deleteSuccess: "Предупреждение/бан успешно удален!",
-    confirmTitle: "Are you sure?",
+    confirmTitle: "Вы уверены?",
     confirmMessage: "Подтвердите, что вы хотите выполнить данное действие.",
     confirm: "Подтвердить",
     cancel: "Отмена",
