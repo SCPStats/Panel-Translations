@@ -1,4 +1,5 @@
 import EN from "./langs/en";
+import RU from "./langs/ru";
 
 export interface Translation {
     loading: string;
@@ -63,5 +64,6 @@ export interface Translation {
 }
 
 export const Translations: Record<string, Translation> = {
-    "en": EN
+    "en": EN,
+    "ru": RU
 };
