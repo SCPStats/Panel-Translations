@@ -1,5 +1,7 @@
 import EN from "./langs/en";
 import RU from "./langs/ru";
+import CS from "./langs/cs";
+import PL from "./langs/pl";
 
 export interface Translation {
     this_lang: string;
@@ -67,5 +69,7 @@ export interface Translation {
 
 export const Translations: Record<string, Translation> = {
     "en": EN,
-    "ru": RU
+    "ru": RU,
+    "cs": CS,
+    "pl": PL
 };
