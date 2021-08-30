@@ -3,6 +3,11 @@ import RU from "./langs/ru";
 import CS from "./langs/cs";
 import PL from "./langs/pl";
 
+require("dayjs/locale/en");
+require("dayjs/locale/ru");
+require("dayjs/locale/cs");
+require("dayjs/locale/pl");
+
 export interface Translation {
     this_lang: string;
     loading: string;
