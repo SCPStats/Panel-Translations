@@ -61,7 +61,9 @@ const RU: Translation = {
     logout: "Выход",
     searchHint: "Поиск...",
     playtime: "Наигранное время:",
-    lastSeen: "Последний вход:"
+    lastSeen: "Последний вход:",
+    myPlaytime: "My Playtime",
+    playtimeTitle: "Playtime"
 }
 
 export default RU;

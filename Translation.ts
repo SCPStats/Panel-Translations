@@ -72,6 +72,8 @@ export interface Translation {
     searchHint: string;
     playtime: string;
     lastSeen: string;
+    myPlaytime: string;
+    playtimeTitle: string;
 }
 
 export const Translations: Record<string, Translation> = {

@@ -61,7 +61,9 @@ const EN: Translation = {
     logout: "Logout",
     searchHint: "Search...",
     playtime: "Playtime:",
-    lastSeen: "Last seen:"
+    lastSeen: "Last seen:",
+    myPlaytime: "My Playtime",
+    playtimeTitle: "Playtime"
 }
 
 export default EN;

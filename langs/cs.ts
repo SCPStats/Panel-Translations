@@ -61,7 +61,9 @@ const CS: Translation = {
     logout: "Odhlásit se",
     searchHint: "Hledat...",
     playtime: "Odehraný čas:",
-    lastSeen: "Naposledy viděn:"
+    lastSeen: "Naposledy viděn:",
+    myPlaytime: "My Playtime",
+    playtimeTitle: "Playtime"
 }
 
 export default CS;
