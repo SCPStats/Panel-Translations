@@ -63,7 +63,8 @@ const CS: Translation = {
     playtime: "Odehraný čas:",
     lastSeen: "Naposledy viděn:",
     myPlaytime: "My Playtime",
-    playtimeTitle: "Playtime"
+    playtimeTitle: "Playtime",
+    staffPlaytime: "Staff Playtime"
 }
 
 export default CS;

@@ -63,7 +63,8 @@ const PL: Translation = {
     playtime: "Czas gry:",
     lastSeen: "Ostatnio widziany:",
     myPlaytime: "My Playtime",
-    playtimeTitle: "Playtime"
+    playtimeTitle: "Playtime",
+    staffPlaytime: "Staff Playtime"
 }
 
 export default PL;

@@ -63,7 +63,8 @@ const RU: Translation = {
     playtime: "Наигранное время:",
     lastSeen: "Последний вход:",
     myPlaytime: "My Playtime",
-    playtimeTitle: "Playtime"
+    playtimeTitle: "Playtime",
+    staffPlaytime: "Staff Playtime"
 }
 
 export default RU;

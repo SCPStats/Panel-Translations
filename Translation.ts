@@ -74,6 +74,7 @@ export interface Translation {
     lastSeen: string;
     myPlaytime: string;
     playtimeTitle: string;
+    staffPlaytime: string;
 }
 
 export const Translations: Record<string, Translation> = {

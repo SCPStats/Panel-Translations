@@ -63,7 +63,8 @@ const EN: Translation = {
     playtime: "Playtime:",
     lastSeen: "Last seen:",
     myPlaytime: "My Playtime",
-    playtimeTitle: "Playtime"
+    playtimeTitle: "Playtime",
+    staffPlaytime: "Staff Playtime"
 }
 
 export default EN;
