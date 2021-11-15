@@ -62,9 +62,9 @@ const PL: Translation = {
     searchHint: "Szukaj...",
     playtime: "Czas gry:",
     lastSeen: "Ostatnio widziany:",
-    myPlaytime: "My Playtime",
-    playtimeTitle: "Playtime",
-    staffPlaytime: "Staff Playtime"
+    myPlaytime: "Mój czas gry",
+    playtimeTitle: "Czas gry",
+    staffPlaytime: "Czas gry Administracji"
 }
 
 export default PL;
