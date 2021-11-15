@@ -62,9 +62,9 @@ const RU: Translation = {
     searchHint: "Поиск...",
     playtime: "Наигранное время:",
     lastSeen: "Последний вход:",
-    myPlaytime: "My Playtime",
-    playtimeTitle: "Playtime",
-    staffPlaytime: "Staff Playtime"
+    myPlaytime: "Ваше наигранное время",
+    playtimeTitle: "Наигранное время",
+    staffPlaytime: "Наигранное время администраторов"
 }
 
 export default RU;
