@@ -1,6 +1,6 @@
 import {Translation} from "../Translation";
 
-const EN: Translation = {
+const TH: Translation = {
     this_lang: "ไทย",
     loading: "กำลังโหลด...",
     redirecting: "Redirecting...",

@@ -3,12 +3,14 @@ import RU from "./langs/ru";
 import CS from "./langs/cs";
 import PL from "./langs/pl";
 import IT from "./langs/it";
+import TH from "./langs/th";
 
 require("dayjs/locale/en");
 require("dayjs/locale/ru");
 require("dayjs/locale/cs");
 require("dayjs/locale/pl");
 require("dayjs/locale/it");
+require("dayjs/locale/th");
 
 export interface Translation {
     this_lang: string;
@@ -82,5 +84,6 @@ export const Translations: Record<string, Translation> = {
     "ru": RU,
     "cs": CS,
     "pl": PL,
-    "it": IT
+    "it": IT,
+    "th": TH
 };
