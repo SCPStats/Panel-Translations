@@ -65,8 +65,8 @@ const RU: Translation = {
     myPlaytime: "Ваше наигранное время",
     playtimeTitle: "Наигранное время",
     staffPlaytime: "Наигранное время администраторов",
-    lookupPlayer: "Lookup Player",
-    lookupIssuer: "Lookup Issuer"
+    lookupPlayer: "Просмотреть историю игрока",
+    lookupIssuer: "Просмотреть историю администратора"
 }
 
 export default RU;
