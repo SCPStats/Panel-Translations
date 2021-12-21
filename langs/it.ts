@@ -64,7 +64,9 @@ const IT: Translation = {
     lastSeen: "Ultima volta online:",
     myPlaytime: "My Playtime",
     playtimeTitle: "Playtime",
-    staffPlaytime: "Staff Playtime"
+    staffPlaytime: "Staff Playtime",
+    lookupPlayer: "Lookup Player",
+    lookupIssuer: "Lookup Issuer"
 }
 
 export default IT;

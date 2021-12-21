@@ -64,7 +64,9 @@ const PL: Translation = {
     lastSeen: "Ostatnio widziany:",
     myPlaytime: "Mój czas gry",
     playtimeTitle: "Czas gry",
-    staffPlaytime: "Czas gry Administracji"
+    staffPlaytime: "Czas gry Administracji",
+    lookupPlayer: "Lookup Player",
+    lookupIssuer: "Lookup Issuer"
 }
 
 export default PL;

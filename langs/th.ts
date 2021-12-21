@@ -64,7 +64,9 @@ const TH: Translation = {
     lastSeen: "พบล่าสุด:",
     myPlaytime: "เวลาที่เล่นไปของคุณ",
     playtimeTitle: "ระยะเวลาการเล่น",
-    staffPlaytime: "เวลาที่เล่นไปของสตาฟ"
+    staffPlaytime: "เวลาที่เล่นไปของสตาฟ",
+    lookupPlayer: "Lookup Player",
+    lookupIssuer: "Lookup Issuer"
 }
 
 export default TH;

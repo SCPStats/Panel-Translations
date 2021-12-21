@@ -64,7 +64,9 @@ const EN: Translation = {
     lastSeen: "Last seen:",
     myPlaytime: "My Playtime",
     playtimeTitle: "Playtime",
-    staffPlaytime: "Staff Playtime"
+    staffPlaytime: "Staff Playtime",
+    lookupPlayer: "Lookup Player",
+    lookupIssuer: "Lookup Issuer"
 }
 
 export default EN;

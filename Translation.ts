@@ -77,6 +77,8 @@ export interface Translation {
     myPlaytime: string;
     playtimeTitle: string;
     staffPlaytime: string;
+    lookupPlayer: string;
+    lookupIssuer: string;
 }
 
 export const Translations: Record<string, Translation> = {
