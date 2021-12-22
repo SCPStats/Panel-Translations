@@ -65,8 +65,8 @@ const PL: Translation = {
     myPlaytime: "Mój czas gry",
     playtimeTitle: "Czas gry",
     staffPlaytime: "Czas gry Administracji",
-    lookupPlayer: "Lookup Player",
-    lookupIssuer: "Lookup Issuer"
+    lookupPlayer: "Sprawdź Gracza",
+    lookupIssuer: "Sprawdź Administratora"
 }
 
 export default PL;
