@@ -66,7 +66,12 @@ const PL: Translation = {
     playtimeTitle: "Czas gry",
     staffPlaytime: "Czas gry Administracji",
     lookupPlayer: "Sprawdź Gracza",
-    lookupIssuer: "Sprawdź Administratora"
+    lookupIssuer: "Sprawdź Administratora",
+    reports: "Reports",
+    warning: "Warning",
+    ban: "Ban",
+    report: "Report",
+    cheaterReport: "Cheater Report"
 }
 
 export default PL;

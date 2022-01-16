@@ -66,7 +66,12 @@ const CS: Translation = {
     playtimeTitle: "Playtime",
     staffPlaytime: "Staff Playtime",
     lookupPlayer: "Lookup Player",
-    lookupIssuer: "Lookup Issuer"
+    lookupIssuer: "Lookup Issuer",
+    reports: "Reports",
+    warning: "Warning",
+    ban: "Ban",
+    report: "Report",
+    cheaterReport: "Cheater Report"
 }
 
 export default CS;

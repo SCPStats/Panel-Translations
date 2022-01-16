@@ -79,6 +79,11 @@ export interface Translation {
     staffPlaytime: string;
     lookupPlayer: string;
     lookupIssuer: string;
+    reports: string;
+    warning: string;
+    ban: string;
+    report: string;
+    cheaterReport: string;
 }
 
 export const Translations: Record<string, Translation> = {
