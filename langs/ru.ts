@@ -65,13 +65,13 @@ const RU: Translation = {
     myPlaytime: "Ваше наигранное время",
     playtimeTitle: "Наигранное время",
     staffPlaytime: "Наигранное время администраторов",
-    lookupPlayer: "Просмотреть историю игрока",
-    lookupIssuer: "Просмотреть историю администратора",
-    reports: "Reports",
-    warning: "Warning",
-    ban: "Ban",
-    report: "Report",
-    cheaterReport: "Cheater Report"
+    lookupPlayer: "История игрока",
+    lookupIssuer: "История администратора",
+    reports: "Жалобы",
+    warning: "Предупреждение",
+    ban: "Бан",
+    report: "Жалоба",
+    cheaterReport: "Жалоба на читерство"
 }
 
 export default RU;
