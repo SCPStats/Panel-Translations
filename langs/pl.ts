@@ -67,11 +67,11 @@ const PL: Translation = {
     staffPlaytime: "Czas gry Administracji",
     lookupPlayer: "Sprawdź Gracza",
     lookupIssuer: "Sprawdź Administratora",
-    reports: "Reports",
-    warning: "Warning",
+    reports: "Zgłoszenia",
+    warning: "Ostrzeżenie",
     ban: "Ban",
-    report: "Report",
-    cheaterReport: "Cheater Report"
+    report: "Zgłoszenie",
+    cheaterReport: "Zgłoszenie Cheatera"
 }
 
 export default PL;
