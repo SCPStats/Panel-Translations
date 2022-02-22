@@ -67,11 +67,11 @@ const TH: Translation = {
     staffPlaytime: "เวลาที่เล่นไปของสตาฟ",
     lookupPlayer: "ค้นหาผู้เล่น",
     lookupIssuer: "ค้นหาคนลงโทษ",
-    reports: "Reports",
-    warning: "Warning",
-    ban: "Ban",
-    report: "Report",
-    cheaterReport: "Cheater Report"
+    reports: "การแจ้งผู้เล่น",
+    warning: "การเตือน",
+    ban: "แบน",
+    report: "แจ้งผู้เล่น",
+    cheaterReport: "แจ้งผู้ใช้แฮก"
 }
 
 export default TH;
