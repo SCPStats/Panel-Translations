@@ -1,5 +1,5 @@
-# Bans-Translations
-This is a repository containing the translations for SCPStats Bans (https://bans.scpstats.com).
+# Panel-Translations
+This is a repository containing the translations for SCPStats Panel (https://panel.scpstats.com).
 
 ## Contributing
 If you want to change something in an already-existing language, simply find and edit the relevent file (inside of the `langs` directory), then create a pull request.
