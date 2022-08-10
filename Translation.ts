@@ -89,6 +89,8 @@ export interface Translation {
     names: string;
     lastJoin: string;
     lastLeave: string;
+    firstJoin: string;
+    firstLeave: string;
 }
 
 export const Translations: Record<string, Translation> = {

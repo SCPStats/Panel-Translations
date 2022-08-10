@@ -77,6 +77,8 @@ const EN: Translation = {
     names: "Names",
     lastJoin: "Last Join",
     lastLeave: "Last Leave",
+    firstJoin: "First Join",
+    firstLeave: "First Leave",
 }
 
 export default EN;
