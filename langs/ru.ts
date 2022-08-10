@@ -77,8 +77,8 @@ const RU: Translation = {
     names: "Никнеймы",
     lastJoin: "Последний вход",
     lastLeave: "Последний выход",
-    firstJoin: "First Join",
-    firstLeave: "First Leave",
+    firstJoin: "Первый вход",
+    firstLeave: "Первый выход",
 }
 
 export default RU;
