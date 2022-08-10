@@ -71,7 +71,12 @@ const IT: Translation = {
     warning: "Warning",
     ban: "Ban",
     report: "Report",
-    cheaterReport: "Cheater Report"
+    cheaterReport: "Cheater Report",
+    players: "Players",
+    name: "Name",
+    names: "Names",
+    lastJoin: "Last Join",
+    lastLeave: "Last Leave",
 }
 
 export default IT;

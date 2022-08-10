@@ -71,7 +71,12 @@ const TH: Translation = {
     warning: "การเตือน",
     ban: "แบน",
     report: "แจ้งผู้เล่น",
-    cheaterReport: "แจ้งผู้ใช้แฮก"
+    cheaterReport: "แจ้งผู้ใช้แฮก",
+    players: "Players",
+    name: "Name",
+    names: "Names",
+    lastJoin: "Last Join",
+    lastLeave: "Last Leave",
 }
 
 export default TH;

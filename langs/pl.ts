@@ -71,7 +71,12 @@ const PL: Translation = {
     warning: "Ostrzeżenie",
     ban: "Ban",
     report: "Zgłoszenie",
-    cheaterReport: "Zgłoszenie Cheatera"
+    cheaterReport: "Zgłoszenie Cheatera",
+    players: "Players",
+    name: "Name",
+    names: "Names",
+    lastJoin: "Last Join",
+    lastLeave: "Last Leave",
 }
 
 export default PL;

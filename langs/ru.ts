@@ -71,7 +71,12 @@ const RU: Translation = {
     warning: "Предупреждение",
     ban: "Бан",
     report: "Жалоба",
-    cheaterReport: "Жалоба на читерство"
+    cheaterReport: "Жалоба на читерство",
+    players: "Players",
+    name: "Name",
+    names: "Names",
+    lastJoin: "Last Join",
+    lastLeave: "Last Leave",
 }
 
 export default RU;

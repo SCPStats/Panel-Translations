@@ -84,6 +84,11 @@ export interface Translation {
     ban: string;
     report: string;
     cheaterReport: string;
+    players: string;
+    name: string;
+    names: string;
+    lastJoin: string;
+    lastLeave: string;
 }
 
 export const Translations: Record<string, Translation> = {
