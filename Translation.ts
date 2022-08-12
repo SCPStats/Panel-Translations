@@ -91,6 +91,19 @@ export interface Translation {
     lastLeave: string;
     firstJoin: string;
     firstLeave: string;
+    myServers: string;
+    viewSecret: string;
+    changeName: string;
+    resetSecret: string;
+    viewSecretMsg1: string;
+    viewSecretMsg2: string;
+    changeNameNewName: string;
+    resetSecretMsg: string;
+    changeNameSuccess: string;
+    resetSecretSuccess: string;
+    createServer: string;
+    createServerMsg: string;
+    createServerSuccess: string;
 }
 
 export const Translations: Record<string, Translation> = {

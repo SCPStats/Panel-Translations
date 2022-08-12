@@ -79,6 +79,19 @@ const RU: Translation = {
     lastLeave: "Последний выход",
     firstJoin: "Первый вход",
     firstLeave: "Первый выход",
+    myServers: "My Servers",
+    viewSecret: "View Secret",
+    changeName: "Change Name",
+    resetSecret: "Reset Secret",
+    viewSecretMsg1: "This server's secret is below. Keep it private and reset it immediately if anyone gets access to it!",
+    viewSecretMsg2: "To connect this server to your game server, run the following command in your server console:",
+    changeNameNewName: "New Name",
+    resetSecretMsg: "Resetting your server's secret will disconnect it from its connected server. Make sure you put in the new secret after resetting it.",
+    changeNameSuccess: "Successfully changed name!",
+    resetSecretSuccess: "Successfully reset secret!",
+    createServer: "Create Server",
+    createServerMsg: "Once you create a server, click the View Secret button to connect it to your game server.",
+    createServerSuccess: "Successfully created server!",
 }
 
 export default RU;
