@@ -104,6 +104,10 @@ export interface Translation {
     createServer: string;
     createServerMsg: string;
     createServerSuccess: string;
+    linkToDiscord: string;
+    linkToDiscordMsg1: string;
+    linkToDiscordMsg2: string;
+    linkToDiscordCmd: string;
 }
 
 export const Translations: Record<string, Translation> = {
