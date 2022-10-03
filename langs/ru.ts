@@ -95,7 +95,7 @@ const RU: Translation = {
     linkToDiscord: "Link to Discord",
     linkToDiscordMsg1: "This server's ID is below. It can be used to link this server to your discord server.",
     linkToDiscordMsg2: "To link this server to your discord server, run the following command in your discord server:",
-    linkToDiscordCmd: "/link",
+    linkToDiscordCmd: "/link serverid:",
 }
 
 export default RU;
